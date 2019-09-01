@@ -1,2 +1,2 @@
-# soc2019
-Materials and projects for ICM Summer of Code 2019 http://icm.hr/soc
+# ICM Summer of Code
+## Raspored radionica http://icm.hr/soc/soc-2019.pdf
